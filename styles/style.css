@@ -48,6 +48,9 @@ h5{
     margin-bottom: 100px;
     height: 450px;
 }
+.card-text{
+    color: #ED6B4F;
+}
 .checked{
     color: orange;
 }
